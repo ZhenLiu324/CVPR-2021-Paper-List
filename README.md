@@ -77,7 +77,7 @@
   * [VisTR: End-to-End Video Instance Segmentation with Transformers](https://arxiv.org/abs/2011.14503)
   * [Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking](https://arxiv.org/abs/2103.11681)<br>:open_mouth:oral:star:[code]
   * [Transformer Tracking](https://arxiv.org/abs/2103.15436)<br>:star:[code](https://github.com/chenxin-dlut/TransT)
-* Self-attention自注意力机制
+* Self-Attention
   * [Scaling Local Self-Attention For Parameter Efficient Visual Backbones](https://arxiv.org/abs/2103.12731)<br>:open_mouth:oral
 * Feature Matching
   * [LoFTR: Detector-Free Local Feature Matching with Transformers](https://arxiv.org/abs/2104.00680)<br>:star:[code](https://github.com/zju3dv/LoFTR):house:[project](https://zju3dv.github.io/loftr/)
