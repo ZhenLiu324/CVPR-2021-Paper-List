@@ -170,7 +170,7 @@
 * [Scale-aware Automatic Augmentation for Object Detection](https://arxiv.org/abs/2103.17220)<br>:star:[code](https://github.com/Jia-Research-Lab/SA-AutoAug) 
 * [A Closer Look at Fourier Spectrum Discrepancies for CNN-generated Images Detection](https://arxiv.org/abs/2103.17195)<br>:open_mouth:oral:house:[project](https://keshik6.github.io/Fourier-Discrepancies-CNN-Detection/)
 * [Group Collaborative Learning for Co-Salient Object Detection](https://arxiv.org/abs/2104.01108)<br>:star:[code](https://github.com/fanq15/GCoNet)
-* [IQDet: Instance-wise Quality Distribution Sampling for Object Detection](https://arxiv.org/abs/2104.06936)<br>粗解：[20](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
+* [IQDet: Instance-wise Quality Distribution Sampling for Object Detection](https://arxiv.org/abs/2104.06936)
 * [SE-SSD: Self-Ensembling Single-Stage Object Detector From Point Cloud](https://arxiv.org/abs/2104.09804)<br>:star:[code](https://github.com/Vegeta2020/SE-SSD)
 * Multi-Object Detection
   * [There is More than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking with Sound by Distilling Multimodal Knowledge](https://arxiv.org/abs/2103.01353)<br>:house:[project](http://multimodal-distill.cs.uni-freiburg.de/)<br>
@@ -193,13 +193,6 @@
   * [Deep RGB-D Saliency Detection with Depth-Sensitive Attention and Automatic Multi-Modal Fusion](https://arxiv.org/abs/2103.11832)<br>:open_mouth:oral
   * [Weakly Supervised Video Salient Object Detection](https://arxiv.org/abs/2104.02391)<br>:star:[code](https://github.com/wangbo-zhao/WSVSOD)
   * [Uncertainty-aware Joint Salient Object and Camouflaged Object Detection](https://arxiv.org/abs/2104.02628)<br>:star:[code](https://github.com/JingZhang617/Joint_COD_SOD)
-* 半监督目标检测
- * [Data-Uncertainty Guided Multi-Phase Learning for Semi-Supervised Object Detection](https://arxiv.org/abs/2103.16368)
- * [Points as Queries: Weakly Semi-supervised Object Detection by Points]
-* 弱监督目标检测
-  * [DAP: Detection-Aware Pre-training with Weak Supervision](https://arxiv.org/abs/2103.16651)
-* Long-tail Object Detection 
-  * [Adaptive Class Suppression Loss for Long-Tail Object Detection](https://arxiv.org/abs/2104.00885)<br>:star:[code](https://github.com/CASIA-IVA-Lab/ACSL)
 
 ## Data Augmentation
 
